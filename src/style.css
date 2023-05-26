@@ -1,0 +1,11 @@
+h1, p {
+  font-family: Lato;
+}
+
+table {
+  border: 1px solid #fff;
+}
+
+td {
+  border: 1px solid #000;
+}
